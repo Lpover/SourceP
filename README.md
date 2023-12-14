@@ -39,7 +39,7 @@ RQ3: Ablation experiments.
 | -w/o NodeAlign   | 0.821      | 0.914         | 0.860       |
 | -w/o Data Flow   | 0.806      | 0.909         | 0.847       |
 
-RQ4: Three metrics on the randomly divided dataset
+RQ4: Generalization ability of SourceP.
 
 | **Method** | **Recall** | **Precision** | **F-score** |
 |------------|------------|---------------|-------------|
