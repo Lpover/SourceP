@@ -1,8 +1,9 @@
 # SourceP
 The project's code and dataset set will be open-sourced after the paper is published.
+
 This paper is expected to be published in ICASSP 2024.
 
-arxiv address: https://arxiv.org/abs/2306.01665
+Arxiv address: https://arxiv.org/abs/2306.01665
 
 # Experimental Results
 RQ1: Performance comparison with state-of-the-art methods.
