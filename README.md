@@ -1,5 +1,6 @@
 # SourceP
-The project's code and dataset set will be open sourced after the paper is published.
+The project's code and dataset set will be open-sourced after the paper is published.
+This paper is expected to be published in ICASSP 2024.
 
 arxiv address: https://arxiv.org/abs/2306.01665
 
