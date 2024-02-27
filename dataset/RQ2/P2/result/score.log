@@ -1,0 +1,2 @@
+result/predictions.txt
+{'Recall': 0.55, 'Precision': 0.9956191588785046, 'F1': 0.5887090322408598, 'Accuracy': 0.9912468391363548}
