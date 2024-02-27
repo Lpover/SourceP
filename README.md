@@ -5,6 +5,14 @@ This paper has been accepted by ICASSP 2024.
 
 Arxiv address: https://arxiv.org/abs/2306.01665
 
+
+# Detection
+python run_classifier.py parameters
+
+# Evaluation
+python3 evaluator.py -a dataset/test.txt -p result/predictions.txt 2>&1| tee result/score.log
+
+
 # Experimental Results
 RQ1: Performance comparison with state-of-the-art methods.
 | **Method**        | **Recall** | **Precision** | **F-score** |
