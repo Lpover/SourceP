@@ -3,7 +3,7 @@ The project's code and dataset set will be open-sourced after the paper is publi
 
 This paper has been accepted by ICASSP 2024.
 
-Arxiv address: https://arxiv.org/abs/2306.01665
+Paper address: https://ieeexplore.ieee.org/document/10448439
 
 
 # Detection
