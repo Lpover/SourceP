@@ -40,17 +40,3 @@ RQ2: Sustainability of the model compared to other state-of-the-art methods.
 |            | Recall     | 0.55   | **0.89**| 0.90   | **0.89**|
 |            | F-score    | **0.59**| **0.92**| **0.88**| **0.92**|
 
-
-RQ3: Ablation experiments.
-| **Method**       | **Recall** | **Precision** | **F-score** |
-|------------------|------------|---------------|-------------|
-| SourceP          | **0.887**  | **0.956**     | **0.918**   |
-| -w/o EdgePred    | 0.867      | 0.919         | 0.891       |
-| -w/o NodeAlign   | 0.821      | 0.914         | 0.860       |
-| -w/o Data Flow   | 0.806      | 0.909         | 0.847       |
-
-RQ4: Generalization ability of SourceP.
-
-| **Method** | **Recall** | **Precision** | **F-score** |
-|------------|------------|---------------|-------------|
-| SourceP    | 0.90       | 0.92          | 0.91        |
